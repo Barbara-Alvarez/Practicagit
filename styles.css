@@ -18,8 +18,13 @@ body {
 }
 
 button {
-  background: #6c63ff;
+  background: palevioletred;
   color: white;
-  border: none;
-  padding: 10px 20px;
+  border:5px;
+  padding: 30px 50px;
+
+}
+button:hover {
+  background-color: #4CAF50;
+  color: white;
 }
