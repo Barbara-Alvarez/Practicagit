@@ -18,11 +18,19 @@ body {
 }
 
 button {
-  background: #6c63ff;
+  background: palevioletred;
+  color: white;
+  border:5px;
+  padding: 30px 50px;
+
+}
+button:hover {
+  background-color: #4CAF50;
   color: white;
   border: none;
   padding: 10px 20px;
 }
+
 h1{
     color: pink;
 }
